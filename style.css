@@ -39,13 +39,12 @@ body {
 span {
     font-style: italic;
     font-weight: 700;
-    font-family: work sans;
+    font-size: 15px;
 
 }
 
 .logo-text {
     color: #2947a9;
-    font-family: work sans;
     font-style: bold;
     font-weight: 700;
     font-size: 15px;
@@ -104,7 +103,7 @@ h1 {
     width: 556px;
     color: #292e3d;
     text-align: center;
-    width: 306px;
+    width: 280px;
     font-size: 34px;
     padding-top: 50px;
 
@@ -118,13 +117,10 @@ h1 {
 
 }
 
-.hero-p {
+h3 {
     color: rgba(255, 255, 255, 1);
-    font-size: 23px;
     justify-content: center;
     padding: 10px 0;
-    font: work sans;
-    font-style: bold;
     font-weight: 700;
 
 }
@@ -191,9 +187,9 @@ h1 {
         width: 556px;
         color: #292e3d;
         text-align: left;
-        width: 306px;
-        font-size: 46px;
-        padding: 65px 0px 40px 0;
+        width: 295px;
+        font-size: 40px;
+        padding: 164px 0px 40px 0;
         position: relative;
         right: 200px;
 
@@ -226,10 +222,10 @@ h1 {
 
         width: 556px;
         color: #292e3d;
-        text-align: left;
-        width: 543px;
-        font-size: 83px;
-        padding: 90px 0px 50px 0;
+        
+        width: 546px;
+        font-size: 70px;
+        padding: 151px 0px 20px 0;
         position: relative;
         right: 200px;
 
